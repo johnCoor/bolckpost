@@ -1,0 +1,17 @@
+.div-principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.title{
+    color: red;
+}
+
+p{
+    color: cadetblue;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
