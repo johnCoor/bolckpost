@@ -6,17 +6,12 @@
     
 }
 
-.title{
-    color: red;
-}
-
-.secundary{
-    font-size: 27px;
-    
-}
-
 p{
-    color: cadetblue;
+  
     font-size: 18px;
+<<<<<<< HEAD
     font-family: Arial, Helvetica, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+=======
+    font-family: 'Courier New', Courier, monospace,;
+>>>>>>> 8a2a34a68459320a1dcfd8d396c8435e9cf92fac
 }
