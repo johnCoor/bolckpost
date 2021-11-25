@@ -27,11 +27,9 @@ p{
     font-family: 'Courier New', Courier, monospace,;
 }
 
-.title{
-    width: 100%;
-    background-color: blue;
-    padding: 30px 0;
-    display: flex;
-    justify-content: center;
+footer{
+    
+    background-color: aquamarine;
     text-align: center;
+    padding: 10px 10px;
 }
