@@ -9,7 +9,7 @@
  img{
     width: 50px;
     position: absolute;
-    margin-left: 230px;
+    margin-right: 350px;
 }
 
 
@@ -17,14 +17,23 @@
 .cabecera{
     display: flex;
     position: relative;
-    display: flex;
-    justify-content: start;
+    width: 100%;
+    justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 p{
     font-size: 18px;
     font-family: 'Courier New', Courier, monospace,;
+}
+
+.title{
+    display: flex;
+    padding: 20px 0;
+    width: 60%;
+    background-color: blue;
+   justify-content: center;
 }
 
 footer{
