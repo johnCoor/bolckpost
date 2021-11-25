@@ -11,3 +11,10 @@ p{
     font-size: 18px;
     font-family: 'Courier New', Courier, monospace,;
 }
+
+footer{
+    
+    background-color: aquamarine;
+    text-align: center;
+    padding: 10px 10px;
+}
